@@ -18,3 +18,7 @@ To knock off opponents by landing darts on their chosen number.
 6. Can kill  players who haven’t started.
 7. Life saver - hit your own number (triangle rule above) and you gain a life, only one life per hand (3 darts). Doubles & trembles don’t count.
 8. Bringing back the dead.  Players who are a killer can bring back the dead by hitting the dead players number.  A dead player can only get one life returned.
+
+## See Also
+
+* [Most Dart Games](http://www.mostdartgames.com/killers.html)
